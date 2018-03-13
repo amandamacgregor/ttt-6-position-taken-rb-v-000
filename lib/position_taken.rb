@@ -3,7 +3,7 @@ require 'pry'
 
 def position_taken?(board, index)
   binding.pry
-  # if board[0] == " "
-  return 
+  if board[0] == " "
+  true
     
 end
