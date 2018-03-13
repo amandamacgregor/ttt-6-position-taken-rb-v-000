@@ -1,4 +1,4 @@
 # code your #position_taken? method here!
-def position_taken?(board, index, value="X")
-  board[1] == value
+def position_taken?(board, index)
+  board[1] == "X"
 end
