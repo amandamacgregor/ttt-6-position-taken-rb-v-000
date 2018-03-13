@@ -3,6 +3,6 @@ require 'pry'
 
 def position_taken?(board, index)
   
-  if board[0] == 
+  # if board[0] == 
     
 end
